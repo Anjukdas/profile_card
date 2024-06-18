@@ -11,8 +11,8 @@ body{
 }
 
 .container_card{
-    width: 380px;
-    height: 350px;
+    width: 480px;
+    height: 450px;
     border-radius: 20px;
     background-color: rgb(164, 237, 104);
     display: flex;
@@ -35,6 +35,8 @@ h2{
 p{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    margin-top: 20px;
+    justify-content: center;
 }
 
 img{
